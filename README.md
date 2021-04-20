@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Leony Leal 👋
 
-<!--
-**LeonyLeal/LeonyLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👶️Born in Porto Alegre, Brasil <br>
+🇧🇷️Living in Brasilia, Brasil <br>
+🌱I’m currently learning Algoritms, Android Development(Kotlin), Python, Javascript and Ruby. <br>
+🔭I’m currently working on Personal Projects <br>
+🤔I’m looking for help to develop a project <br>
+⌨️ The Algoritms will be on my [repository](https://github.com/LeonyLeal/Algoritms)<br>
+👯I'm looking to collaborate in anything that i can be helpful
 
-Here are some ideas to get you started:
+##### 📫 How to reach me:
+   - 🐦️[@Leony_1999](https://twitter.com/Leony_1999)
+   - 🚀️[Rocketseat Profile](https://app.rocketseat.com.br/me/leonyleal99)
+   - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/)
+   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### 📕️ I'm currently reading:
+  - Kotlin in Action
+  - The Mythical Man-Month
+  - Clean Code
+  - Design Patterns
+  - The Pragmatic Programmer <br>
