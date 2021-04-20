@@ -9,10 +9,11 @@
 👯I'm looking to collaborate in anything that i can be helpful
 
 ##### 📫 How to reach me:
-   - 🐦️[@Leony_1999](https://twitter.com/Leony_1999)
+   - 🐦️[Twitter](https://twitter.com/Leony_1999)
+   - 📷️[Instagram](https://www.instagram.com/leony.1999/)
    - 🚀️[Rocketseat Profile](https://app.rocketseat.com.br/me/leonyleal99)
    - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/)
-   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal) <br>
+   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal)<br>
 
 ##### 📕️ I'm currently reading:
   - Kotlin in Action
