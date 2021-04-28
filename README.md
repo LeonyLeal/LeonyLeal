@@ -11,7 +11,6 @@
 ##### 📫 How to reach me:
    - 🐦️[Twitter](https://twitter.com/Leony_1999)
    - 📷️[Instagram](https://www.instagram.com/leony.1999/)
-   - 🚀️[Rocketseat Profile](https://app.rocketseat.com.br/me/leonyleal99)
    - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/)
    - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal)<br>
 
