@@ -12,7 +12,8 @@
    - 🐦️[Twitter](https://twitter.com/Leony_1999)
    - 📷️[Instagram](https://www.instagram.com/leony.1999/)
    - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/)
-   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal)<br>
+   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal)
+   - 🖌️[Figma](https://www.figma.com/@leony)<br>
 
 ##### 📕️ I'm currently reading:
   - Kotlin in Action
