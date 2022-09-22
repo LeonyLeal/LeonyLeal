@@ -9,12 +9,12 @@
 👯I'm looking to collaborate in anything that i can be helpful
 
 ##### 📫 How to reach me:
-   - 🐦️[Twitter](https://twitter.com/Leony_1999)
-   - 📷️[Instagram](https://www.instagram.com/leony.1999/)
-   - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/)
-   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal)
-   - 🖌️[Figma](https://www.figma.com/@leony)<br>
-   - 🖼[Portfolio](https://leony.vercel.app)<br>
+   - 🐦️[Twitter](https://twitter.com/Leony_1999){:target="_blank" rel="noopener"}
+   - 📷️[Instagram](https://www.instagram.com/leony.1999/){:target="_blank" rel="noopener"}
+   - 💼️[Linkedin](https://www.linkedin.com/in/leony-leal99/){:target="_blank" rel="noopener"}
+   - 🥋️[Codewars](https://www.codewars.com/users/LeonyLeal){:target="_blank" rel="noopener"}
+   - 🖌️[Figma](https://www.figma.com/@leony){:target="_blank" rel="noopener"}
+   - 🖼[Portfolio](https://leony.vercel.app){:target="_blank" rel="noopener"}<br>
 
 ##### 📕️ I'm currently reading:
   - Kotlin in Action
