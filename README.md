@@ -29,7 +29,7 @@ Desenvolvedor Fullstack com 3 anos de experiência no mercado de trabalho
 ### 📚 **Projetos**
 - **Portfolio:** Explore my work at [Leony's Portfolio](https://leony.dev).
 
-### 📫 **Connect With Me**
+### 📫 **Minhas Redes**
 - **Instagram:** [leony.1999](https://www.instagram.com/leony.1999/)
 - **LinkedIn:** [Leony Leal](https://www.linkedin.com/in/leony99/)
 - **Codewars:** [LeonyLeal](https://www.codewars.com/users/LeonyLeal)
